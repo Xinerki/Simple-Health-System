@@ -57,9 +57,9 @@ Citizen.CreateThread(function()
 	end
 end)
 
-----------------
--- Walk Shake --
-----------------
+--------------------------------
+-- Walk Shake code by Xinerki --
+--------------------------------
 
 playerMoving = false
 
